@@ -1,0 +1,26 @@
+Rahul Ravi,9632541784
+Harish Kumar,9876543210
+Virat Raj,9145871210
+Salman khan,9998887776
+Sameera Joshi,9472223334
+Alia Khan,8887776665
+Kamaraj,8134445556
+Rohit Devraj,7976665557
+Joseph William,7124339448
+Akshay Raj,9667778889
+Aarav Patel,9145678092
+Riya Sharma,8279034561
+Arjun Desai,7348905126
+Nisha Singh,8792013456
+Rohan Mehta,9156734280
+Maya Reddy,8432905671
+Aryan Choudhury,7965482310
+Anika Das,8823094567
+Kunal Gupta,7098312546
+Shreya Verma,9365027814
+Name,Phone,Voted for
+Rahul Ravi,9632541784,Rohan Mehta
+Name,Phone,Voted for
+Harish Kumar,9876543210,Maya Reddy
+Name,Phone,Voted for
+Alia Khan,8887776665,Aarav Patel
